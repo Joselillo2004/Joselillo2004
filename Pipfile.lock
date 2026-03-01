@@ -348,11 +348,12 @@
         },
         "pip": {
             "hashes": [
-                "sha256:ba0d021a166865d2265246961bec0152ff124de910c5cc39f1156ce3fa7c69dc",
-                "sha256:ea9bd1a847e8c5774a5777bb398c19e80bcd4e2aa16a4b301b718fe6f593aba2"
+                "sha256:3ce220a0a17915972fbf1ab451baae1521c4539e778b28127efa79b974aff0fa",
+                "sha256:98436feffb9e31bc9339cf369fd55d3331b1580b6a6f1173bacacddcf9c34754"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==24.0"
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==26.0"
         },
         "platformdirs": {
             "hashes": [
